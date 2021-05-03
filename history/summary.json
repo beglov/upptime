@@ -4,18 +4,20 @@
     "url": "http://tms.vko-kmt.ru:8080/",
     "icon": "https://favicons.githubusercontent.com/tms.vko-kmt.ru",
     "slug": "api-docs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 622,
     "timeDay": 622,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "vko-kmt",
