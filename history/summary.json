@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tms.vko-kmt.ru",
     "slug": "api-docs",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 607,
-    "timeDay": 493,
-    "timeWeek": 620,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 599,
+    "timeDay": 482,
+    "timeWeek": 552,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2021-05-03": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 335,
-    "timeWeek": 340,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "time": 342,
+    "timeDay": 317,
+    "timeWeek": 323,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 543,
-    "timeWeek": 590,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "time": 581,
+    "timeDay": 526,
+    "timeWeek": 555,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   }
 ]
