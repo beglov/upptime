@@ -6,8 +6,8 @@ sites:
     url: http://tms.vko-kmt.ru:8080/
   - name: vko-kmt
     url: http://tms.vko-kmt.ru/users/sign_in
-  - name: dn82
-    url: http://dn82.vko-kmt.ru/users/sign_in
+  - name: ddn
+    url: http://ddn.vko-kmt.ru/users/sign_in
 #  - name: telemed
 #    url: https://telemed.rosminzdrav.ru/users/sign_in
 #  - name: ftms2
