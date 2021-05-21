@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 556,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 590,
+    "timeDay": 540,
+    "timeWeek": 547,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2021-05-03": 30
     }
@@ -30,31 +30,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 367,
-    "timeWeek": 336,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "time": 340,
+    "timeDay": 329,
+    "timeWeek": 331,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   },
   {
-    "name": "dn82",
-    "url": "http://dn82.vko-kmt.ru/users/sign_in",
-    "icon": "https://favicons.githubusercontent.com/dn82.vko-kmt.ru",
-    "slug": "dn82",
-    "status": "down",
+    "name": "ddn",
+    "url": "http://ddn.vko-kmt.ru/users/sign_in",
+    "icon": "https://favicons.githubusercontent.com/ddn.vko-kmt.ru",
+    "slug": "ddn",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 628,
-    "timeWeek": 546,
-    "timeMonth": 577,
-    "timeYear": 577,
-    "dailyMinutesDown": {
-      "2021-05-21": 0
-    }
+    "time": 550,
+    "timeDay": 550,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
+    "dailyMinutesDown": {}
   }
 ]
