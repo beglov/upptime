@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 581,
-    "timeDay": 490,
-    "timeWeek": 556,
-    "timeMonth": 569,
-    "timeYear": 581,
+    "time": 582,
+    "timeDay": 601,
+    "timeWeek": 575,
+    "timeMonth": 573,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2021-05-03": 30
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/tms.vko-kmt.ru",
     "slug": "vko-kmt",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 350,
-    "timeDay": 279,
-    "timeWeek": 332,
-    "timeMonth": 354,
+    "timeDay": 344,
+    "timeWeek": 335,
+    "timeMonth": 353,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2021-06-08": 28
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
-    "timeDay": 504,
-    "timeWeek": 590,
-    "timeMonth": 609,
+    "timeDay": 617,
+    "timeWeek": 604,
+    "timeMonth": 612,
     "timeYear": 617,
     "dailyMinutesDown": {}
   }
