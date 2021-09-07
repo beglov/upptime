@@ -2,16 +2,20 @@ owner: beglov
 repo: upptime
 
 sites:
-  - name: API Docs
-    url: http://tms.vko-kmt.ru:8080/
+#  - name: telemed
+#    url: https://telemed.rosminzdrav.ru/users/sign_in
+  - name: ftms2
+    url: https://ftms2.rosminzdrav.ru/users/sign_in
   - name: vko-kmt
     url: http://tms.vko-kmt.ru/users/sign_in
   - name: ddn
     url: http://ddn.vko-kmt.ru/users/sign_in
-#  - name: telemed
-#    url: https://telemed.rosminzdrav.ru/users/sign_in
-#  - name: ftms2
-#    url: https://ftms2.rosminzdrav.ru/users/sign_in
+#  - name: fil
+#    url: http://fil.vko-kmt.ru/users/sign_in
+  - name: ddn52
+    url: http://ddn52.vko-kmt.ru/users/sign_in
+  - name: API Docs
+    url: http://tms.vko-kmt.ru:8080/
 
 status-website:
   baseUrl: /upptime
