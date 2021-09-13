@@ -10,8 +10,8 @@ sites:
     url: http://tms.vko-kmt.ru/users/sign_in
   - name: ddn
     url: http://ddn.vko-kmt.ru/users/sign_in
-#  - name: fil
-#    url: http://fil.vko-kmt.ru/users/sign_in
+  - name: fil
+    url: http://fil.vko-kmt.ru/users/sign_in
   - name: ddn52
     url: http://ddn52.vko-kmt.ru/users/sign_in
   - name: API Docs
