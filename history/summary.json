@@ -4,19 +4,19 @@
     "url": "https://ftms2.rosminzdrav.ru/users/sign_in",
     "icon": "https://favicons.githubusercontent.com/ftms2.rosminzdrav.ru",
     "slug": "ftms2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 1058,
-    "timeWeek": 874,
-    "timeMonth": 888,
-    "timeYear": 896,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 895,
+    "timeDay": 975,
+    "timeWeek": 876,
+    "timeMonth": 889,
+    "timeYear": 895,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 15
     }
   },
   {
