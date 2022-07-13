@@ -2,8 +2,12 @@ owner: beglov
 repo: upptime
 
 sites:
-  - name: tms-ttc
+  - name: TEST
     url: http://tms-ttc.ru/
+  - name: VN
+    url: http://vn.tms-ttc.ru/
+  - name: MEDBOX
+    url: http://tms-ttc.ru:8081/
 
 status-website:
   baseUrl: /upptime
