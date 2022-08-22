@@ -4,10 +4,10 @@
     "url": "http://tms-ttc.ru/",
     "icon": "https://favicons.githubusercontent.com/tms-ttc.ru",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 821,
@@ -15,7 +15,9 @@
     "timeWeek": 810,
     "timeMonth": 833,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 1
+    }
   },
   {
     "name": "VN",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/vn.tms-ttc.ru",
     "slug": "vn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 807,
     "timeDay": 657,
     "timeWeek": 794,
     "timeMonth": 812,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-08-22": 0
+      "2022-08-22": 24
     }
   },
   {
@@ -42,9 +44,9 @@
     "url": "http://tms-ttc.ru:8081/",
     "icon": "https://favicons.githubusercontent.com/tms-ttc.ru",
     "slug": "medbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 628,
     "timeMonth": 548,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 0
+    }
   }
 ]
