@@ -1,7 +1,7 @@
 url: http://tms-ttc.ru:8081/
-status: down
-code: 502
-responseTime: 443
-lastUpdated: 2023-01-09T23:04:53.738Z
+status: up
+code: 200
+responseTime: 3866
+lastUpdated: 2023-01-10T07:23:36.527Z
 startTime: Wed Jul 13 2022 14:09:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
