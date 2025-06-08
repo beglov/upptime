@@ -4,7 +4,7 @@
     "url": "http://tms-ttc.ru",
     "icon": "https://icons.duckduckgo.com/ip3/tms-ttc.ru.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.51%",
@@ -16,6 +16,7 @@
     "timeMonth": 3911,
     "timeYear": 3674,
     "dailyMinutesDown": {
+      "2025-06-08": 0,
       "2025-06-05": 28,
       "2025-06-02": 27,
       "2025-06-01": 96,
