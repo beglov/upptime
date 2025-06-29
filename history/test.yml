@@ -1,7 +1,7 @@
 url: http://tms-ttc.ru
-status: down
-code: 500
-responseTime: 785
-lastUpdated: 2025-06-29T05:10:17.691Z
+status: up
+code: 200
+responseTime: 6008
+lastUpdated: 2025-06-29T05:24:06.823Z
 startTime: 2022-07-13T14:09:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
