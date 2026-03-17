@@ -6,15 +6,15 @@
     "slug": "test",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.42%",
     "time": 3810,
-    "timeDay": 1999,
-    "timeWeek": 4134,
-    "timeMonth": 3845,
-    "timeYear": 3809,
+    "timeDay": 2752,
+    "timeWeek": 4093,
+    "timeMonth": 3872,
+    "timeYear": 3811,
     "dailyMinutesDown": {
       "2026-03-15": 26,
       "2026-03-14": 20,
@@ -50,8 +50,7 @@
       "2025-06-02": 27,
       "2025-06-01": 96,
       "2025-05-30": 15,
-      "2025-05-24": 44,
-      "2025-03-17": 15
+      "2025-05-24": 44
     }
   }
 ]
