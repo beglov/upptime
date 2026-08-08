@@ -4,17 +4,17 @@
     "url": "http://tms-ttc.ru",
     "icon": "https://icons.duckduckgo.com/ip3/tms-ttc.ru.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.77%",
     "time": 3910,
-    "timeDay": 6328,
-    "timeWeek": 5303,
-    "timeMonth": 4834,
-    "timeYear": 3924,
+    "timeDay": 4705,
+    "timeWeek": 5026,
+    "timeMonth": 4780,
+    "timeYear": 3922,
     "dailyMinutesDown": {
       "2025-09-27": 38,
       "2025-10-05": 17,
@@ -51,7 +51,7 @@
       "2026-05-14": 39,
       "2026-05-16": 22,
       "2026-06-12": 37,
-      "2026-08-08": 0
+      "2026-08-08": 24
     }
   }
 ]
